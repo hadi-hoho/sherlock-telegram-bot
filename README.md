@@ -21,9 +21,9 @@ starting :
 
 3_modify the bash_source for your bot 
 
-add admins user id to 'admins' list
+  add admins user id to 'admins' list
 
-replace the 'bot_token' with your bot token
+  replace the 'bot_token' with your bot token
 
 4_run bash_source.py :
 
