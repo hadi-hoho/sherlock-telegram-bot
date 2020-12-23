@@ -6,6 +6,7 @@ This bot is using the sherlock project to find links!
 orginal creator : Siddharth Dushantha 
 
 you can find the sherlock project in this link : https://github.com/sherlock-project/sherlock
+
 ------------------------------------------------------------------------------------------------
 
 starting :
@@ -32,6 +33,7 @@ replace the 'bot_token' with your bot token
 I'm really noob in coding so this might be the worst way to do it :)
 
 but it works !
+
 --------------------------------------------------------------------------------------------------
 
 log is stored in log.txt but there is still no limit to log size so be careful!
