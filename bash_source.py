@@ -84,6 +84,7 @@ def seach_id (message):
 def shutdown(message):
     global admins
     user_id = message.from_user.id
+
     
     if admins.count(user_id)!=0:
         #shutdown notifier
